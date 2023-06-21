@@ -1,0 +1,15 @@
+Z:\Lehrlinge\Szulzycki\Visual Studio\Bücherei\bin\Debug\Bücherei.exe.config
+Z:\Lehrlinge\Szulzycki\Visual Studio\Bücherei\bin\Debug\Bücherei.exe
+Z:\Lehrlinge\Szulzycki\Visual Studio\Bücherei\bin\Debug\Bücherei.pdb
+Z:\Lehrlinge\Szulzycki\Visual Studio\Bücherei\obj\Debug\Bücherei.csproj.AssemblyReference.cache
+Z:\Lehrlinge\Szulzycki\Visual Studio\Bücherei\obj\Debug\Bücherei.csproj.SuggestedBindingRedirects.cache
+Z:\Lehrlinge\Szulzycki\Visual Studio\Bücherei\obj\Debug\MainWindow.g.cs
+Z:\Lehrlinge\Szulzycki\Visual Studio\Bücherei\obj\Debug\App.g.cs
+Z:\Lehrlinge\Szulzycki\Visual Studio\Bücherei\obj\Debug\Bücherei_MarkupCompile.cache
+Z:\Lehrlinge\Szulzycki\Visual Studio\Bücherei\obj\Debug\MainWindow.baml
+Z:\Lehrlinge\Szulzycki\Visual Studio\Bücherei\obj\Debug\Bücherei.g.resources
+Z:\Lehrlinge\Szulzycki\Visual Studio\Bücherei\obj\Debug\Bücherei.Properties.Resources.resources
+Z:\Lehrlinge\Szulzycki\Visual Studio\Bücherei\obj\Debug\Bücherei.csproj.GenerateResource.cache
+Z:\Lehrlinge\Szulzycki\Visual Studio\Bücherei\obj\Debug\Bücherei.csproj.CoreCompileInputs.cache
+Z:\Lehrlinge\Szulzycki\Visual Studio\Bücherei\obj\Debug\Bücherei.exe
+Z:\Lehrlinge\Szulzycki\Visual Studio\Bücherei\obj\Debug\Bücherei.pdb
